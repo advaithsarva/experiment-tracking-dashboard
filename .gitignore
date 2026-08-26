@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated at runtime, never committed:
+*.db
+*.db-wal
+*.db-shm
+artifacts/
+board.html
+runs.csv
+
+# Local-only notes (workflow phase 7)
+observe.md
+CLAUDE.md
